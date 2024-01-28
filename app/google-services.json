@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265008370207",
+    "project_id": "carmenfirebase",
+    "storage_bucket": "carmenfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265008370207:android:1e598d17475d75050dbb2a",
+        "android_client_info": {
+          "package_name": "com.proyectofinal.carmenfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFRt35YtN3gXQ2vdjpp--9j7LHvtC082w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

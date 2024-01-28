@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#50A2E3</color>
+    <color name="secondary">#DF8E74</color>
+    <color name="third">#DDCF52</color>
+    <color name="fourth">#EA3434</color>
+
+
+    <color name="five">#E166F6</color>
+
+    <color name="green">#6AEF39</color>
+    <color name="blue">#1417E3</color>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CarmenFireBase</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recuerda_que_al_eliminar_n_tus_datos_nno_podras_recuperarlos">Recuerda que al Eliminar Tus Datos, No podras recuperarlos</string>
+    <string name="la_verificacion_no_esta_activada">LA VERIFICACION NO ESTA ACTIVADA</string>
+</resources>
